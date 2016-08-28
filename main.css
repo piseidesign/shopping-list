@@ -1,0 +1,6 @@
+#list-items .fa-trash:hover {
+  color: red;
+}
+#list-items .fa {
+  cursor: pointer;
+}
