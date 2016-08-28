@@ -1,3 +1,6 @@
+main {
+  margin-top: 60px;
+}
 #list-items .fa-trash:hover {
   color: red;
 }
